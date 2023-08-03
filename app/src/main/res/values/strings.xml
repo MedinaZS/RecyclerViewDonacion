@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewDonacion</string>
+    <string name="donacion_de_sangre">Donación de Sangre</string>
+    <string name="puntos_de_donacion">Puntos de Donación</string>
+    <string name="horario">Horario</string>
+    <string name="direccion">Dirección</string>
+    <string name="button_ir_en_maps">Ir en maps</string>
+    <string name="button_ver_mas">Ver más</string>
+    <string name="solicitudes">Solicitudes</string>
+    <string name="certificados">Certificados</string>
+</resources>
